@@ -1,4 +1,6 @@
 # 💻 IT Automation Scripts Collection (100 Scripts)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Jmineros/it-automation-scripts-collection)
+
 
 Welcome to a curated collection of **100 real-world IT automation scripts**, built to support Help Desk, SysAdmin, Cloud, Security, and DevOps operations.
 
