@@ -1,6 +1,6 @@
 # 💻 IT Automation Scripts Collection (100 Scripts)
 
-Welcome to my curated collection of **100 real-world IT automation scripts**, built to support Help Desk, SysAdmin, Cloud, Security, and DevOps operations.
+Welcome to a curated collection of **100 real-world IT automation scripts**, built to support Help Desk, SysAdmin, Cloud, Security, and DevOps operations.
 
 This project serves as both a **portfolio** and a **toolkit** for professionals who want quick, practical solutions to real IT problems.
 
@@ -26,11 +26,11 @@ This project serves as both a **portfolio** and a **toolkit** for professionals 
 
 ## 🛠️ Technologies Used
 
-- **PowerShell**
-- **Python 3**
-- **Bash/Shell**
-- **AWS (Boto3), Azure SDK, Microsoft Graph API**
-- **CLI tools**: `kubectl`, `terraform`, `git`, `netsh`
+- PowerShell
+- Python 3
+- Bash/Shell
+- AWS (Boto3), Azure SDK, Microsoft Graph API
+- CLI tools: kubectl, terraform, git, netsh
 
 ---
 
@@ -41,18 +41,23 @@ This project serves as both a **portfolio** and a **toolkit** for professionals 
 
 ---
 
-## 👀 Sample Use Cases
-
-- Automatically disable inactive AD users over 60 days
-- Clean up print queues and restart spooler services
-- Sync new users from HR into Azure AD and assign licenses
-- Monitor AWS snapshots and flag missing backups
-- Audit local admin group membership across the network
-
----
-
-## 📖 How to Use
+## 📘 How to Use
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/it-automation-scripts-collection.git
+git clone https://github.com/Jmineros/it-automation-scripts-collection.git
+```
+
+Browse to a category and run the script using PowerShell, Python, or Bash.
+
+---
+
+## 🤝 Contributions Welcome
+
+Have a real-world script you’d like to add? Submit a pull request or open an issue.
+
+---
+
+## 📄 License
+
+MIT License — use, modify, and share freely.
