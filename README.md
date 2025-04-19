@@ -24,6 +24,8 @@ This project serves as both a **portfolio** and a **toolkit** for professionals 
 | collaboration  | Slack cleanup, Teams, O365 autoresponders |
 | tools/templates| Sample CSV files, helper functions      |
 
+📄 [View Script Descriptions](./SCRIPT_DESCRIPTIONS.md)
+
 ---
 
 ## 🛠️ Technologies Used
