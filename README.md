@@ -36,10 +36,11 @@ This project serves as both a **portfolio** and a **toolkit** for professionals 
 
 ---
 
-## 📥 Downloadable Resources
+## 📥 Downloads
 
-🗂 [📄 PDF: Script Index](./releases)  
-📦 [ZIP: All 100 Scripts](./releases)
+- 📦 [Download ZIP – 100 Scripts](https://github.com/Jmineros/it-automation-scripts-collection/releases/download/v1.0/Categorized_IT_Automation_Scripts.zip)
+- 📊 [Download CSV Index](https://github.com/Jmineros/it-automation-scripts-collection/releases/download/v1.0/Script_Index.csv)
+
 
 ---
 
